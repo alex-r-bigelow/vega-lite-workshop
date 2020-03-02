@@ -1,0 +1,20 @@
+{
+  "name": "vega-lite-workshop",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "serve": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-r-bigelow/vega-lite-workshop.git"
+  },
+  "author": "Kate Isaacs, Alex Bigelow",
+  "bugs": {
+    "url": "https://github.com/alex-r-bigelow/vega-lite-workshop/issues"
+  },
+  "homepage": "https://github.com/alex-r-bigelow/vega-lite-workshop#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
